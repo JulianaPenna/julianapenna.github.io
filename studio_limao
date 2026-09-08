@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+	<title>Juliana Penna</title>
+	<link rel="stylesheet" type="text/css" href="studio_limao.css?h=6f4faee8">
+</head>
+<body>
+<div class="textstyle1">
+<span class="textstyle2"><br/></span><div id="menu_5aa64af4"><div  id="menu_5aa64af4_menualignmentwrapper" ><div  class="menuholder1"><a href="javascript:void(0);" tabindex="-1" aria-label="&#8801;" >
+	<div id="menuentry_92f8692"  class="menustyle1 menu_5aa64af4_mainMenuEntry mobileEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle3">&#8801;</span>
+		</div>
+	</div>
+</a>
+<a href="home_2" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_245ca709"  class="menustyle2 menu_5aa64af4_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Home</span>
+		</div>
+	</div>
+</a>
+<a href="studio" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_7b56f8c2"  class="menustyle3 menu_5aa64af4_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Studio</span>
+		</div>
+	</div>
+</a>
+<a href="illustration" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_44477b00"  class="menustyle4 menu_5aa64af4_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Illustration</span>
+		</div>
+	</div>
+</a>
+<a href="scenic_art" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_146ea582"  class="menustyle5 menu_5aa64af4_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Scenic Art</span>
+		</div>
+	</div>
+</a>
+<a href="about" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_438337b7"  class="menustyle6 menu_5aa64af4_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">About</span>
+		</div>
+	</div>
+</a>
+<a href="contact" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_608c5ba8"  class="menustyle7 menu_5aa64af4_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Contact</span>
+		</div>
+	</div>
+</a>
+
+	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
+	<script type="text/javascript">
+		var js_menu_5aa64af4= new wsp_menu('menu_5aa64af4', 'menu_5aa64af4', 20, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#0A0A0A', menuPaddingUsed: 20, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
+
+		js_menu_5aa64af4.createMenuForItem('menuentry_92f8692', ["  <span class=\"textstyle5\">Home</span> ", 'home_2', '',
+		                                   "  <span class=\"textstyle5\">Studio</span> ", 'studio', '',
+		                                   "  <span class=\"textstyle5\">Illustration</span> ", 'illustration', '',
+		                                   "  <span class=\"textstyle5\">Scenic Art</span> ", 'scenic_art', '',
+		                                   "  <span class=\"textstyle5\">About</span> ", 'about', '',
+		                                   "  <span class=\"textstyle5\">Contact</span> ", 'contact', '']
+		                                   , true);
+		js_menu_5aa64af4.createMenuForItem('menuentry_245ca709', []);
+		js_menu_5aa64af4.createMenuForItem('menuentry_7b56f8c2', []);
+		js_menu_5aa64af4.createMenuForItem('menuentry_44477b00', []);
+		js_menu_5aa64af4.createMenuForItem('menuentry_146ea582', []);
+		js_menu_5aa64af4.createMenuForItem('menuentry_438337b7', []);
+		js_menu_5aa64af4.createMenuForItem('menuentry_608c5ba8', []);
+
+	</script>
+</div></div></div><span class="textstyle2"><br/><br/></span><h1 id="heading_53410e57">Studio</h1>  </div>
+<div class="textstyle6">
+<span class="textstyle2"><br/></span>  </div>
+<div class="textstyle1">
+<div id="shapedivider_6e474205"><svg style="width: 100%; height: 30px; position: absolute; left: 0; top: 0;  " data-name="shape" viewBox="0 0 1201.1345 61.138092" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">  <path style="fill:#D1D886" d="M 0,0 H 1201.1345 L 601.89216,61.138092 Z" /></svg><div id="shapedivider_6e474205_padding" ></div></div>  </div>
+<div class="textstyle6">
+<span class="textstyle2"><br/><br/></span>  </div>
+<div class="textstyle1">
+<img src="rc_images/img_9166.jpeg" width="2513" height="2513" id="img_3c8710b2" alt="" title="" /><span class="textstyle2"><br/><br/></span><div id="gallery_17187d9f">
+	<script type="text/javascript" src="rc_images/wsp_gallery.js"></script>
+<div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/dsc_7512_2048x1356.jpg',2048,1356,true, 'gallery_17187d9f');"><img src="rc_images/rwb_4.jpg" id="gallery_17187d9f_img1" width="640" height="423" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/dsc_7511_2048x1356.jpg',2048,1356,true, 'gallery_17187d9f');"><img src="rc_images/rwb_5.jpg" id="gallery_17187d9f_img2" width="640" height="423" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/dsc_7513_2048x1356.jpg',2048,1356,true, 'gallery_17187d9f');"><img src="rc_images/rwb_6.jpg" id="gallery_17187d9f_img3" width="640" height="423" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/dsc_7503_2048x1356.jpg',2048,1356,true, 'gallery_17187d9f');"><img src="rc_images/rwb_7.jpg" id="gallery_17187d9f_img4" width="640" height="423" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/dsc_7504_2048x1356.jpg',2048,1356,true, 'gallery_17187d9f');"><img src="rc_images/rwb_8.jpg" id="gallery_17187d9f_img5" width="640" height="423" /> </a></div></div><span class="textstyle2"><br/></span><span class="textstyle7"><br/></span><h1 id="heading_2ced744a"><span class="textstyle8"><span class="textstyle9">Estrela de lim&#227;o</span><span class="textstyle7"><br/>2026<br/>Acrylic on wood<br/>29 x 30 in<br/></span></span>
+</h1>  </div>
+<div class="textstyle6">
+<span class="textstyle10"><br/></span><span class="textstyle2"><br/></span>  </div>
+<div class="textstyle1">
+<div id="shapedivider_146da33e"><svg style="width: 100%; height: 30px; position: absolute; left: 0; bottom: 0; transform: rotate(180deg);" data-name="shape" viewBox="0 0 1201.1345 61.138092" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">  <path style="fill:#D1D886" d="M 0,0 H 1201.1345 L 601.89216,61.138092 Z" /></svg><div id="shapedivider_146da33e_padding" ></div></div>  </div>
+<div class="textstyle6">
+<span class="textstyle11"><br/></span>  </div>
+</body>
+</html>

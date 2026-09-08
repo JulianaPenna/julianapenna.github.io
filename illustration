@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+	<title>Juliana Penna</title>
+	<link rel="stylesheet" type="text/css" href="illustration.css?h=31799c48">
+</head>
+<body>
+<div class="textstyle1">
+<span class="textstyle2"><br/></span><div id="menu_5c28ea42"><div  id="menu_5c28ea42_menualignmentwrapper" ><div  class="menuholder1"><a href="javascript:void(0);" tabindex="-1" aria-label="&#8801;" >
+	<div id="menuentry_180353ca"  class="menustyle1 menu_5c28ea42_mainMenuEntry mobileEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle3">&#8801;</span>
+		</div>
+	</div>
+</a>
+<a href="home_2" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_6a87e0f6"  class="menustyle2 menu_5c28ea42_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Home</span>
+		</div>
+	</div>
+</a>
+<a href="studio" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_25d60c92"  class="menustyle3 menu_5c28ea42_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Studio</span>
+		</div>
+	</div>
+</a>
+<a href="javascript:void(0);" tabindex="-1" aria-label="Illustration" >
+	<div id="menuentry_5b67d6c4"  class="menustyle4 menu_5c28ea42_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Illustration</span>
+		</div>
+	</div>
+</a>
+<a href="scenic_art" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_10274de8"  class="menustyle5 menu_5c28ea42_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Scenic Art</span>
+		</div>
+	</div>
+</a>
+<a href="about" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_5e1b1707"  class="menustyle6 menu_5c28ea42_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">About</span>
+		</div>
+	</div>
+</a>
+<a href="contact" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_3e03c391"  class="menustyle7 menu_5c28ea42_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Contact</span>
+		</div>
+	</div>
+</a>
+
+	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
+	<script type="text/javascript">
+		var js_menu_5c28ea42= new wsp_menu('menu_5c28ea42', 'menu_5c28ea42', 20, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#0A0A0A', menuPaddingUsed: 20, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
+
+		js_menu_5c28ea42.createMenuForItem('menuentry_180353ca', ["  <span class=\"textstyle5\">Home</span> ", 'home_2', '',
+		                                   "  <span class=\"textstyle5\">Studio</span> ", 'studio', '',
+		                                   "  <span class=\"textstyle5\">Illustration</span> ", 'javascript:void(0);', '',
+		                                   "  <span class=\"textstyle5\">Scenic Art</span> ", 'scenic_art', '',
+		                                   "  <span class=\"textstyle5\">About</span> ", 'about', '',
+		                                   "  <span class=\"textstyle5\">Contact</span> ", 'contact', '']
+		                                   , true);
+		js_menu_5c28ea42.createMenuForItem('menuentry_6a87e0f6', []);
+		js_menu_5c28ea42.createMenuForItem('menuentry_25d60c92', []);
+		js_menu_5c28ea42.createMenuForItem('menuentry_5b67d6c4', []);
+		js_menu_5c28ea42.createMenuForItem('menuentry_10274de8', []);
+		js_menu_5c28ea42.createMenuForItem('menuentry_5e1b1707', []);
+		js_menu_5c28ea42.createMenuForItem('menuentry_3e03c391', []);
+
+	</script>
+</div></div></div><span class="textstyle2"><br/><br/></span><h1 id="heading_6217ac29">Illustration</h1>  </div>
+<div class="textstyle6">
+<span class="textstyle2"><br/></span>  </div>
+<div class="textstyle1">
+<div id="shapedivider_58bdd13d"><svg style="width: 100%; height: 40px; position: absolute; left: 0; top: 0;  " data-name="shape" viewBox="0 0 1201.1345 61.138092" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">  <path style="fill:#D1D886" d="M 0,0 H 1201.1345 L 601.89216,61.138092 Z" /></svg><div id="shapedivider_58bdd13d_padding" ></div></div>  </div>
+<div class="textstyle6">
+<span class="textstyle2"><br/></span>  </div>
+<div class="textstyle1">
+<img src="rc_images/space_raccoons_2048x1711.jpeg" width="2048" height="1711" id="img_426fe36" alt="" title="" /><span class="textstyle2"><br/><br/></span><div id="gallery_3dda20f9">
+	<script type="text/javascript" src="rc_images/wsp_gallery.js"></script>
+<div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/0_easy_bolognese.jpeg',1467,536,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_29.jpg" id="gallery_3dda20f9_img1" width="640" height="233" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/0_recycled_jenga.jpeg',1146,685,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_30.jpg" id="gallery_3dda20f9_img2" width="640" height="382" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/0_spark.jpeg',1240,634,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_31.jpg" id="gallery_3dda20f9_img3" width="640" height="327" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/1_dream_sweet.jpeg',768,1024,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_32.jpg" id="gallery_3dda20f9_img4" width="640" height="853" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/1_ready_to_go.jpeg',713,1102,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_33.jpg" id="gallery_3dda20f9_img5" width="640" height="989" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/1_tdf_simple.jpeg',713,1102,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_34.jpg" id="gallery_3dda20f9_img6" width="640" height="989" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/1_the_lair_1.jpeg',713,1102,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_35.jpg" id="gallery_3dda20f9_img7" width="640" height="989" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/1_the_lair_2.jpeg',713,1102,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_36.jpg" id="gallery_3dda20f9_img8" width="640" height="989" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/1_the_lair_3.jpeg',713,1102,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_37.jpg" id="gallery_3dda20f9_img9" width="640" height="989" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/1_the_lair_4.jpeg',713,1102,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_38.jpg" id="gallery_3dda20f9_img10" width="640" height="989" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/1_the_veldt.jpeg',724,1086,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_39.jpg" id="gallery_3dda20f9_img11" width="640" height="960" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/3_calling_girls.jpeg',1024,768,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_40.jpg" id="gallery_3dda20f9_img12" width="640" height="480" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/3_flood_benefit_concerts_julianabrandao_2048x1536.png',2048,1536,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_41.jpg" id="gallery_3dda20f9_img13" width="640" height="480" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/3_halloween_costume.jpeg',1024,768,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_42.jpg" id="gallery_3dda20f9_img14" width="640" height="480" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/3_hispanic_2048x1536.png',2048,1536,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_43.jpg" id="gallery_3dda20f9_img15" width="640" height="480" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/3_marathon.jpeg',1024,768,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_44.jpg" id="gallery_3dda20f9_img16" width="640" height="480" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/3_matchbox.jpeg',1024,768,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_45.jpg" id="gallery_3dda20f9_img17" width="640" height="480" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/3_rio_sheet.jpeg',1024,768,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_46.jpg" id="gallery_3dda20f9_img18" width="640" height="480" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/5_angela_roto.jpeg',886,886,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_47.jpg" id="gallery_3dda20f9_img19" width="640" height="640" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/5_duel_at_high_noon.jpeg',886,887,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_48.jpg" id="gallery_3dda20f9_img20" width="640" height="640" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/5_get_out_there.jpeg',886,886,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_49.jpg" id="gallery_3dda20f9_img21" width="640" height="640" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/5_haunted.jpeg',886,886,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_50.jpg" id="gallery_3dda20f9_img22" width="640" height="640" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/img_2314_2048x2048.jpg',2048,2048,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_51.jpg" id="gallery_3dda20f9_img23" width="640" height="640" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/5_vintage_raccoon.jpeg',886,886,true, 'gallery_3dda20f9');"><img src="rc_images/rwb_52.jpg" id="gallery_3dda20f9_img24" width="640" height="640" /> </a></div></div>  </div>
+<div class="textstyle6">
+<span class="textstyle2"><br/><br/></span>  </div>
+<div class="textstyle1">
+<div id="shapedivider_3fa36f9c"><svg style="width: 100%; height: 30px; position: absolute; left: 0; bottom: 0; transform: rotate(180deg);" data-name="shape" viewBox="0 0 1201.1345 61.138092" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">  <path style="fill:#D1D886" d="M 0,0 H 1201.1345 L 601.89216,61.138092 Z" /></svg><div id="shapedivider_3fa36f9c_padding" ></div></div>  </div>
+<div class="textstyle6">
+<span class="textstyle7"><br/></span>  </div>
+</body>
+</html>

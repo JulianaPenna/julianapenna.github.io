@@ -1,0 +1,48 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#menu_7025ba0d a { text-decoration: none; }
+#menu_7025ba0d_pane { background-color: #93A848; border: 1px solid #93A848; padding-top: 20px; padding-bottom: 20px; border-radius: 15px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_7025ba0d_hr { background-color: #93A848; height: 1px; border: none; }
+#menu_7025ba0d_entry { padding-left: 20px; padding-right: 20px; padding-top: 3px; padding-bottom: 3px; }
+#menu_7025ba0d_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_7025ba0d_entry:hover span { color:#FFFFFF !important; }
+		.menu_7025ba0d_mainMenuEntry { text-align: center; }
+		.menu_7025ba0d_mainMenuEntry:hover {	background-color:#C5D149; }
+		.menu_7025ba0d_mainMenuEntry:hover span {	color:#B67615 !important; }
+		#menu_7025ba0d .mobileEntry { display: none; } 
+		#menu_7025ba0d .normalEntry { display: block; } 
+		#menu_7025ba0d_menualignmentwrapper{ width:980px; left: calc(50% - 490px);  } 
+		@media only screen and (max-width:600px) { 
+			#menu_7025ba0d .mobileEntry { display: block; } 
+			#menu_7025ba0d .normalEntry { display: none; } 
+			#menu_7025ba0d_menualignmentwrapper { width:56px; left: calc(50% - 28px);  } 
+		}
+body { background-color:#FBFCDA; border-top: 20px solid #EBA456; border-left: 20px dashed #EBA456; border-right: 20px dashed #EBA456; border-bottom: 20px dashed #EBA456; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+.textstyle2 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#menu_7025ba0d { box-sizing: border-box; vertical-align: bottom; border-radius: 15px; position:relative; display: inline-block; width:97%; height:47px; min-width:800px; text-align:left; background-color:#93A848; background: linear-gradient(to bottom, #93A848, #93A848); border: 0px solid #93A848;  }
+#menu_7025ba0d_menualignmentwrapper { position: relative; overflow: visible; height: 100%; }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.menustyle1 { position:absolute; width:56px; height:47px; left:0px;  }
+.menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:32px;  }
+.textstyle3 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.menustyle2 { position:absolute; width:107px; height:47px; left:0px;  }
+.textstyle4 { font-size:22pt; font-family:'Courier New', Courier, monospace; color:#6A2807; font-weight:bold;  white-space: nowrap; }
+.menustyle3 { position:absolute; width:141px; height:47px; left:107px;  }
+.menustyle4 { position:absolute; width:242px; height:47px; left:248px;  }
+.menustyle5 { position:absolute; width:208px; height:47px; left:490px;  }
+.menustyle6 { position:absolute; width:124px; height:47px; left:698px;  }
+.menustyle7 { position:absolute; width:158px; height:47px; left:822px;  }
+.textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+#heading_5cf3eee9 { vertical-align: bottom; position:relative; display: inline-block; width:1005px; background:none; font-size:72pt; font-family:'American Typewriter'; color:#B67615; text-align:center;  }
+#shapedivider_2233b4a2 { vertical-align: top; position:relative; display: inline-block; width:70%; min-height:44px; background:none;  }
+#shapedivider_2233b4a2_padding { margin: 10px; display: block; position: relative;  }
+#img_77cd5d68 { vertical-align: bottom; position:relative; display: inline-block; margin:20px; width:40%; background:none; height:auto;  }
+#img_571c3245 { vertical-align: bottom; position:relative; display: inline-block; margin:20px; width:30%; background:none; height:auto;  }
+#video_6e4fb690 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; margin:20px; width:35%; background-color:#D1D1D1; border: 1px solid #A0A0A0;  }
+#video_60320bed { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; margin:20px; width:35%; background-color:#D1D1D1; border: 1px solid #A0A0A0;  }
+#shapedivider_3ccc5386 { vertical-align: top; position:relative; display: inline-block; width:70%; min-height:48px; background:none;  }
+#shapedivider_3ccc5386_padding { margin: 10px; display: block; position: relative;  }

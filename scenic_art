@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+	<title>Juliana Penna</title>
+	<link rel="stylesheet" type="text/css" href="scenic_art.css?h=74f1bd6f">
+</head>
+<body>
+<div class="textstyle1">
+<span class="textstyle2"><br/></span><div id="menu_1b95c19"><div  id="menu_1b95c19_menualignmentwrapper" ><div  class="menuholder1"><a href="javascript:void(0);" tabindex="-1" aria-label="&#8801;" >
+	<div id="menuentry_b854ad8"  class="menustyle1 menu_1b95c19_mainMenuEntry mobileEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle3">&#8801;</span>
+		</div>
+	</div>
+</a>
+<a href="home_2" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_5814b6f0"  class="menustyle2 menu_1b95c19_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Home</span>
+		</div>
+	</div>
+</a>
+<a href="studio" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_1eaec801"  class="menustyle3 menu_1b95c19_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Studio</span>
+		</div>
+	</div>
+</a>
+<a href="illustration" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_1aa948d0"  class="menustyle4 menu_1b95c19_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Illustration</span>
+		</div>
+	</div>
+</a>
+<a href="javascript:void(0);" tabindex="-1" aria-label="Scenic Art" >
+	<div id="menuentry_1d79f3fe"  class="menustyle5 menu_1b95c19_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Scenic Art</span>
+		</div>
+	</div>
+</a>
+<a href="about" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_15e994a"  class="menustyle6 menu_1b95c19_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">About</span>
+		</div>
+	</div>
+</a>
+<a href="contact" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_13fa0457"  class="menustyle7 menu_1b95c19_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Contact</span>
+		</div>
+	</div>
+</a>
+
+	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
+	<script type="text/javascript">
+		var js_menu_1b95c19= new wsp_menu('menu_1b95c19', 'menu_1b95c19', 20, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#0A0A0A', menuPaddingUsed: 20, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
+
+		js_menu_1b95c19.createMenuForItem('menuentry_b854ad8', ["  <span class=\"textstyle5\">Home</span> ", 'home_2', '',
+		                                   "  <span class=\"textstyle5\">Studio</span> ", 'studio', '',
+		                                   "  <span class=\"textstyle5\">Illustration</span> ", 'illustration', '',
+		                                   "  <span class=\"textstyle5\">Scenic Art</span> ", 'javascript:void(0);', '',
+		                                   "  <span class=\"textstyle5\">About</span> ", 'about', '',
+		                                   "  <span class=\"textstyle5\">Contact</span> ", 'contact', '']
+		                                   , true);
+		js_menu_1b95c19.createMenuForItem('menuentry_5814b6f0', []);
+		js_menu_1b95c19.createMenuForItem('menuentry_1eaec801', []);
+		js_menu_1b95c19.createMenuForItem('menuentry_1aa948d0', []);
+		js_menu_1b95c19.createMenuForItem('menuentry_1d79f3fe', []);
+		js_menu_1b95c19.createMenuForItem('menuentry_15e994a', []);
+		js_menu_1b95c19.createMenuForItem('menuentry_13fa0457', []);
+
+	</script>
+</div></div></div><span class="textstyle2"><br/><br/></span><h1 id="heading_777b86f2">Scenic Art</h1>  </div>
+<div class="textstyle6">
+<span class="textstyle2"><br/></span>  </div>
+<div class="textstyle1">
+<div id="shapedivider_79c3d446"><svg style="width: 100%; height: 30px; position: absolute; left: 0; top: 0;  " data-name="shape" viewBox="0 0 1201.1345 61.138092" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">  <path style="fill:#D1D886" d="M 0,0 H 1201.1345 L 601.89216,61.138092 Z" /></svg><div id="shapedivider_79c3d446_padding" ></div></div>  </div>
+<div class="textstyle6">
+<span class="textstyle2"><br/></span>  </div>
+<div class="textstyle1">
+<div id="gallery_b53fb0b">
+	<script type="text/javascript" src="rc_images/wsp_gallery.js"></script>
+<div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/mural___1___img_0371_2048x1536.jpeg',2048,1536,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_53.jpg" id="gallery_b53fb0b_img1" width="960" height="720" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/mural___3___img_0853_2048x1536.png',2048,1536,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_54.jpg" id="gallery_b53fb0b_img2" width="960" height="720" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/img_0855_2048x2048.jpeg',2048,2048,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_55.jpg" id="gallery_b53fb0b_img3" width="960" height="960" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/img_0856_2048x2048.jpeg',2048,2048,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_56.jpg" id="gallery_b53fb0b_img4" width="960" height="960" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/tpa___1___8b3ac3d9_d6d2_4e60_a22f_e49da3ca01dc.jpg',1320,1760,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_57.jpg" id="gallery_b53fb0b_img5" width="960" height="1280" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/img_2433.jpeg',1170,1560,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_58.jpg" id="gallery_b53fb0b_img6" width="960" height="1280" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/tpa___3___img_0227_2048x1536.jpeg',2048,1536,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_59.jpg" id="gallery_b53fb0b_img7" width="960" height="720" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/tpa___2___img_0226_2048x1536.jpeg',2048,1536,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_60.jpg" id="gallery_b53fb0b_img8" width="960" height="720" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/tpa___5___img_0840_1536x2048.png',1536,2048,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_61.jpg" id="gallery_b53fb0b_img9" width="960" height="1280" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/tpa___5_5___img_0837_1536x2048.png',1536,2048,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_62.jpg" id="gallery_b53fb0b_img10" width="960" height="1280" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/tpa___10___img_8118_1536x2048.png',1536,2048,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_63.jpg" id="gallery_b53fb0b_img11" width="960" height="1280" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/tpa___11___img_8120_1536x2048.png',1536,2048,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_64.jpg" id="gallery_b53fb0b_img12" width="960" height="1280" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/img_2434.jpeg',1170,1560,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_65.jpg" id="gallery_b53fb0b_img13" width="960" height="1280" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/img_2435.jpeg',1170,1560,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_66.jpg" id="gallery_b53fb0b_img14" width="960" height="1280" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/img_2436.jpeg',1170,1560,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_67.jpg" id="gallery_b53fb0b_img15" width="960" height="1280" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/img_2438.jpeg',1170,1560,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_68.jpg" id="gallery_b53fb0b_img16" width="960" height="1280" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/img_9695_2048x1536.jpeg',2048,1536,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_69.jpg" id="gallery_b53fb0b_img17" width="960" height="720" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/img_9696_2048x1536.jpeg',2048,1536,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_70.jpg" id="gallery_b53fb0b_img18" width="960" height="720" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/props___1___img_0410_2048x1536.jpeg',2048,1536,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_71.jpg" id="gallery_b53fb0b_img19" width="960" height="720" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/props___2___img_0411_2048x1536.jpeg',2048,1536,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_72.jpg" id="gallery_b53fb0b_img20" width="960" height="720" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/img_2441.jpeg',1170,1560,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_73.jpg" id="gallery_b53fb0b_img21" width="960" height="1280" /> </a></div><div class="galleryimgcontainer" ><a href="javascript:wsp_gallery.openlayer('rc_images/img_2440.jpeg',1170,1560,true, 'gallery_b53fb0b');"><img src="rc_images/rwb_74.jpg" id="gallery_b53fb0b_img22" width="960" height="1280" /> </a></div></div>  </div>
+<div class="textstyle6">
+<span class="textstyle2"><br/><br/></span>  </div>
+<div class="textstyle1">
+<div id="shapedivider_4b75d26d"><svg style="width: 100%; height: 30px; position: absolute; left: 0; bottom: 0; transform: rotate(180deg);" data-name="shape" viewBox="0 0 1201.1345 61.138092" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">  <path style="fill:#D1D886" d="M 0,0 H 1201.1345 L 601.89216,61.138092 Z" /></svg><div id="shapedivider_4b75d26d_padding" ></div></div>  </div>
+<div class="textstyle6">
+<span class="textstyle7"><br/></span>  </div>
+</body>
+</html>

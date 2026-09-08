@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+	<title>Juliana Penna</title>
+	<link rel="stylesheet" type="text/css" href="studio_departure.css?h=c49fa0e6">
+</head>
+<body>
+<div class="textstyle1">
+<span class="textstyle2"><br/></span><div id="menu_791326b0"><div  id="menu_791326b0_menualignmentwrapper" ><div  class="menuholder1"><a href="javascript:void(0);" tabindex="-1" aria-label="&#8801;" >
+	<div id="menuentry_38b3bd4a"  class="menustyle1 menu_791326b0_mainMenuEntry mobileEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle3">&#8801;</span>
+		</div>
+	</div>
+</a>
+<a href="home_2" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_2bc9fe8a"  class="menustyle2 menu_791326b0_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Home</span>
+		</div>
+	</div>
+</a>
+<a href="studio" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_5bd5f3a7"  class="menustyle3 menu_791326b0_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Studio</span>
+		</div>
+	</div>
+</a>
+<a href="illustration" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_7766e258"  class="menustyle4 menu_791326b0_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Illustration</span>
+		</div>
+	</div>
+</a>
+<a href="scenic_art" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_6eeb7bf3"  class="menustyle5 menu_791326b0_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Scenic Art</span>
+		</div>
+	</div>
+</a>
+<a href="about" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_6b6ccfbc"  class="menustyle6 menu_791326b0_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">About</span>
+		</div>
+	</div>
+</a>
+<a href="contact" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_4adab9b8"  class="menustyle7 menu_791326b0_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Contact</span>
+		</div>
+	</div>
+</a>
+
+	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
+	<script type="text/javascript">
+		var js_menu_791326b0= new wsp_menu('menu_791326b0', 'menu_791326b0', 20, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#0A0A0A', menuPaddingUsed: 20, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
+
+		js_menu_791326b0.createMenuForItem('menuentry_38b3bd4a', ["  <span class=\"textstyle5\">Home</span> ", 'home_2', '',
+		                                   "  <span class=\"textstyle5\">Studio</span> ", 'studio', '',
+		                                   "  <span class=\"textstyle5\">Illustration</span> ", 'illustration', '',
+		                                   "  <span class=\"textstyle5\">Scenic Art</span> ", 'scenic_art', '',
+		                                   "  <span class=\"textstyle5\">About</span> ", 'about', '',
+		                                   "  <span class=\"textstyle5\">Contact</span> ", 'contact', '']
+		                                   , true);
+		js_menu_791326b0.createMenuForItem('menuentry_2bc9fe8a', []);
+		js_menu_791326b0.createMenuForItem('menuentry_5bd5f3a7', []);
+		js_menu_791326b0.createMenuForItem('menuentry_7766e258', []);
+		js_menu_791326b0.createMenuForItem('menuentry_6eeb7bf3', []);
+		js_menu_791326b0.createMenuForItem('menuentry_6b6ccfbc', []);
+		js_menu_791326b0.createMenuForItem('menuentry_4adab9b8', []);
+
+	</script>
+</div></div></div><span class="textstyle2"><br/><br/></span><h1 id="heading_4b34cf92">Studio</h1>  </div>
+<div class="textstyle6">
+<span class="textstyle2"><br/></span>  </div>
+<div class="textstyle1">
+<div id="shapedivider_45550c7"><svg style="width: 100%; height: 30px; position: absolute; left: 0; top: 0;  " data-name="shape" viewBox="0 0 1201.1345 61.138092" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">  <path style="fill:#D1D886" d="M 0,0 H 1201.1345 L 601.89216,61.138092 Z" /></svg><div id="shapedivider_45550c7_padding" ></div></div>  </div>
+<div class="textstyle6">
+<span class="textstyle2"><br/><br/></span>  </div>
+<div class="textstyle1">
+<img src="rc_images/img_2358.jpg" width="2389" height="3848" id="img_7e3fe88" alt="" title="" /><span class="textstyle2"><br/><br/></span><span class="textstyle7"><br/><br/></span><h1 id="heading_7613e7a0"><span class="textstyle8"><span class="textstyle9">Departure</span><span class="textstyle7"><br/>2025<br/>Watercolor on paper<br/>60 x 36 in<br/></span></span>
+</h1>  </div>
+<div class="textstyle6">
+<span class="textstyle10"><br/></span><span class="textstyle2"><br/></span>  </div>
+<div class="textstyle1">
+<div id="shapedivider_bfe3b85"><svg style="width: 100%; height: 30px; position: absolute; left: 0; bottom: 0; transform: rotate(180deg);" data-name="shape" viewBox="0 0 1201.1345 61.138092" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">  <path style="fill:#D1D886" d="M 0,0 H 1201.1345 L 601.89216,61.138092 Z" /></svg><div id="shapedivider_bfe3b85_padding" ></div></div>  </div>
+<div class="textstyle6">
+<span class="textstyle11"><br/></span>  </div>
+</body>
+</html>

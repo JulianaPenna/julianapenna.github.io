@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+	<title>Juliana Penna</title>
+	<link rel="stylesheet" type="text/css" href="studio.css?h=58cc971f">
+</head>
+<body>
+<div class="textstyle1">
+<span class="textstyle2"><br/></span><div id="menu_cd703e5"><div  id="menu_cd703e5_menualignmentwrapper" ><div  class="menuholder1"><a href="javascript:void(0);" tabindex="-1" aria-label="&#8801;" >
+	<div id="menuentry_71668dad"  class="menustyle1 menu_cd703e5_mainMenuEntry mobileEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle3">&#8801;</span>
+		</div>
+	</div>
+</a>
+<a href="home_2" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_2f7d4cc2"  class="menustyle2 menu_cd703e5_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Home</span>
+		</div>
+	</div>
+</a>
+<a href="javascript:void(0);" tabindex="-1" aria-label="Studio" >
+	<div id="menuentry_3641b34f"  class="menustyle3 menu_cd703e5_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Studio</span>
+		</div>
+	</div>
+</a>
+<a href="illustration" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_49a514d0"  class="menustyle4 menu_cd703e5_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Illustration</span>
+		</div>
+	</div>
+</a>
+<a href="scenic_art" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_3acd4090"  class="menustyle5 menu_cd703e5_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Scenic Art</span>
+		</div>
+	</div>
+</a>
+<a href="about" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_6f378f9c"  class="menustyle6 menu_cd703e5_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">About</span>
+		</div>
+	</div>
+</a>
+<a href="contact" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_402f9c4d"  class="menustyle7 menu_cd703e5_mainMenuEntry normalEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle4">Contact</span>
+		</div>
+	</div>
+</a>
+
+	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
+	<script type="text/javascript">
+		var js_menu_cd703e5= new wsp_menu('menu_cd703e5', 'menu_cd703e5', 20, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#0A0A0A', menuPaddingUsed: 20, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
+
+		js_menu_cd703e5.createMenuForItem('menuentry_71668dad', ["  <span class=\"textstyle5\">Home</span> ", 'home_2', '',
+		                                   "  <span class=\"textstyle5\">Studio</span> ", 'javascript:void(0);', '',
+		                                   "  <span class=\"textstyle5\">Illustration</span> ", 'illustration', '',
+		                                   "  <span class=\"textstyle5\">Scenic Art</span> ", 'scenic_art', '',
+		                                   "  <span class=\"textstyle5\">About</span> ", 'about', '',
+		                                   "  <span class=\"textstyle5\">Contact</span> ", 'contact', '']
+		                                   , true);
+		js_menu_cd703e5.createMenuForItem('menuentry_2f7d4cc2', []);
+		js_menu_cd703e5.createMenuForItem('menuentry_3641b34f', []);
+		js_menu_cd703e5.createMenuForItem('menuentry_49a514d0', []);
+		js_menu_cd703e5.createMenuForItem('menuentry_3acd4090', []);
+		js_menu_cd703e5.createMenuForItem('menuentry_6f378f9c', []);
+		js_menu_cd703e5.createMenuForItem('menuentry_402f9c4d', []);
+
+	</script>
+</div></div></div><span class="textstyle2"><br/><br/></span><h1 id="heading_7efc2490">Studio</h1>  </div>
+<div class="textstyle6">
+<span class="textstyle2"><br/></span>  </div>
+<div class="textstyle1">
+<div id="shapedivider_1d719d10"><svg style="width: 100%; height: 30px; position: absolute; left: 0; top: 0;  " data-name="shape" viewBox="0 0 1201.1345 61.138092" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">  <path style="fill:#D1D886" d="M 0,0 H 1201.1345 L 601.89216,61.138092 Z" /></svg><div id="shapedivider_1d719d10_padding" ></div></div>  </div>
+<div class="textstyle6">
+<span class="textstyle2"><br/></span>  </div>
+<div class="textstyle1">
+<a href="studio_arrival"><img src="rc_images/img_8130.jpeg" width="1819" height="1819" id="img_184cc07e" alt="" title="" border="0" /></a><a href="studio_limao"><img src="rc_images/img_9166_2048x2048.jpeg" width="2048" height="2048" id="img_27e01d32" alt="" title="" border="0" /></a><a href="studio_5_10"><img src="rc_images/img_0722_2048x2048.jpeg" width="2048" height="2048" id="img_2a3efc7a" alt="" title="" border="0" /></a><a href="studio_lost_in_time"><img src="rc_images/img_3460_2048x1536.jpeg" width="2048" height="1536" id="img_5e3721c3" alt="" title="" border="0" /></a><a href="studio_olive_garden"><img src="rc_images/img_2357.jpg" width="2927" height="5070" id="img_240ef70e" alt="" title="" border="0" /></a><a href="studio_question"><img src="rc_images/img_0771_1535x2048.jpeg" width="1535" height="2048" id="img_81295dd" alt="" title="" border="0" /></a><a href="studio_departure"><img src="rc_images/img_2358.jpg" width="2389" height="3848" id="img_728b4ead" alt="" title="" border="0" /></a><a href="studio_scenes"><img src="rc_images/img_2359_2.jpg" width="2302" height="3941" id="img_496983dd" alt="" title="" border="0" /></a>  </div>
+<div class="textstyle6">
+<a href="studio_introduction"><img src="rc_images/img_2360.jpg" width="4027" height="1716" id="img_53d453e3" alt="" title="" border="0" /></a><span class="textstyle2"><br/><br/><br/></span>  </div>
+<div class="textstyle1">
+<div id="shapedivider_3a450b36"><svg style="width: 100%; height: 30px; position: absolute; left: 0; bottom: 0; transform: rotate(180deg);" data-name="shape" viewBox="0 0 1201.1345 61.138092" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">  <path style="fill:#D1D886" d="M 0,0 H 1201.1345 L 601.89216,61.138092 Z" /></svg><div id="shapedivider_3a450b36_padding" ></div></div>  </div>
+<div class="textstyle6">
+<span class="textstyle7"><br/></span>  </div>
+</body>
+</html>
