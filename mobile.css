@@ -1,0 +1,85 @@
+@media only screen and (max-width: 1060px) {
+  /* The generated ID rules need targeted overrides for the compact menu. */
+  body > div > div[id^="menu_"] {
+    min-width: 0 !important;
+  }
+
+  div[id^="menu_"][id$="_menualignmentwrapper"] {
+    width: 56px !important;
+    left: calc(50% - 28px) !important;
+  }
+
+  div[id^="menu_"] .mobileEntry {
+    display: block !important;
+  }
+
+  div[id^="menu_"] .normalEntry {
+    display: none !important;
+  }
+
+  h1[id], h2[id] {
+    box-sizing: border-box;
+    max-width: 100%;
+    overflow-wrap: anywhere;
+  }
+
+  #button_34839493 {
+    max-width: calc(100% - 24px);
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  body > div:first-of-type > h1 {
+    font-size: clamp(2rem, 8vw, 3rem) !important;
+  }
+
+  h1[id] {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  img[id^="img_"] {
+    max-width: 100%;
+    height: auto;
+  }
+
+  a > img[id^="img_"] {
+    max-width: calc(100% - 24px);
+    margin: 12px !important;
+  }
+
+  body > div > img[id^="img_"], video[id] {
+    width: 90% !important;
+    max-width: calc(100% - 24px);
+    height: auto;
+    margin: 12px !important;
+  }
+
+  div[id^="gallery_"] {
+    width: 94% !important;
+    min-height: 0 !important;
+  }
+
+  #container_99b9ef4 {
+    width: calc(100% - 20px);
+    min-height: 0;
+  }
+
+  #container_3479b30e, #container_194e9651 {
+    width: 100%;
+  }
+
+  #container_194e9651 .textstyle8 {
+    line-height: 1.5;
+  }
+
+  #button_34839493 {
+    height: auto;
+    min-height: 185px;
+    padding: 20px 12px;
+  }
+
+  #button_34839493 .vcenterstyle1 {
+    table-layout: fixed;
+  }
+}
